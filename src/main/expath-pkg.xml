@@ -1,0 +1,9 @@
+<package xmlns="http://expath.org/ns/pkg" name="http://expkg-zone58.github.io/ex-markdown"
+	abbrev="ex-markdown" version="0.1.0" spec="1.0">
+	<title>convert markdown to html text using flexmark-java https://github.com/vsch/flexmark-java</title>
+	<xquery>
+		<namespace>expkg-zone58:text.markdown</namespace>
+		<file>markdown.xqm</file>
+	</xquery>
+	
+</package>

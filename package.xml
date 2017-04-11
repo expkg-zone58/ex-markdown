@@ -1,0 +1,16 @@
+<!--  @see http://cxan.org/faq#add-pkg  -->
+<repo abbrev="ex-markdown">
+  <pkg abbrev="ex-markdown" id="http://expkg-zone58.github.io/ex-markdown">
+    <name>http://expkg-zone58.github.io/ex-markdown</name>
+    <abstract>XQuery interface to transform dotML into dot</abstract>
+    <maintainer id="abunce">Andy Bunce</maintainer>
+    <category id="libs">Libraries</category>
+    <home>http://martin-loetzsch.de/DOTML/</home>
+    <tag>txt</tag>
+    <tag>markdown</tag>
+    <tag>html</tag>
+    <version num="0.1.0">
+      <!-- generated: {fn:current-dateTime()} -->
+    </version>
+  </pkg>
+</repo>

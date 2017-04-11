@@ -1,0 +1,10 @@
+<package xmlns="http://cxan.org/ns/package" id="ex-markdown">
+    <abstract>convert markdown to html text using flexmark-java https://github.com/vsch/flexmark-java </abstract>
+    <author id="vsch">Vladimir Schneider</author>
+    <maintainer id="abunce">Andy Bunce</maintainer>
+    <home>https://github.com/vsch/flexmark-java</home>
+    <category id="libs">Library</category>
+    <tag>text</tag>
+    <tag>html</tag>
+    <tag>markdown</tag>
+</package>

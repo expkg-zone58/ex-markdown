@@ -1,0 +1,6 @@
+<package xmlns="http://www.basex.org/modules/pkg">
+	<jar>flexmark-0.18.5.jar</jar>
+	<jar>flexmark-util-0.18.5.jar</jar>
+	<jar>flexmark-ext-autolink-0.11.10.jar</jar>
+	<class>com.vladsch.flexmark.parser.Parser</class>
+</package>
