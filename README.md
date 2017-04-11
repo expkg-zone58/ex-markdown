@@ -7,7 +7,7 @@ Convert markdown text to html text using [flexmark-java](https://github.com/vsch
 ```` 
 import module namespace  md="expkg-zone58:text.markdown" ;
 
-let $md:="\# title
+let $md:="# title
 some text and a [link](https://github.com/vsch/flexmark-java)
 * list
 * list 2
