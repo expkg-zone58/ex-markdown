@@ -4,16 +4,16 @@ Convert markdown text to html text using [flexmark-java](https://github.com/vsch
 
 ## Usage
 
-```xquery
+``` 
 import module namespace  md="expkg-zone58:text.markdown" ;
 
-let $md:="# title
-some text and a [link](https://github.com/vsch/flexmark-java)
+let $md:="\# title
+some text and a \[link](https://github.com/vsch/flexmark-java)
 * list
 * list 2
-```
+\```
 a code block
-```
+\```
 more
 "
 
